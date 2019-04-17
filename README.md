@@ -16,5 +16,5 @@ Clone the repository and create merge request to contribute.
 
 # Contact
 For any queries please contact at: 
-
+- Laracon Asia - contact@laracon.asia
 - Fakhar Khan - fakhar@softpyramid.com
