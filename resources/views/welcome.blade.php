@@ -31,7 +31,9 @@
                     <div class="title m-b-md">
                         Laracon Asia
                     </div>
-
+                    <div>
+                        Contact at: <a href="mailto:contact@laracon.asia">contact@laracon.asia</a>
+                    </div>
                 </div>
             </div>
         </div>
