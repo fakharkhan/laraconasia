@@ -13,3 +13,10 @@ const mix = require('laravel-mix');
 
 mix.js('resources/js/app.js', 'public/js')
    .sass('resources/sass/app.scss', 'public/css');
+
+
+//concatenate plain CSS stylesheets into a single file
+mix.styles([
+        'public/css/app.css',
+        'resources/css/welcome.css'
+    ], 'public/css/app.css');
